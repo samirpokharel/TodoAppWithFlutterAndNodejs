@@ -1,0 +1,20 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "App.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "sameer",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "mongoose": "^5.11.8"
+  }
+}
